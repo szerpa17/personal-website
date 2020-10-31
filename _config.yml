@@ -27,6 +27,10 @@ projects:
     forks: true
     projects: 
       - szerpa17.github.io
+      - fatal-police-shootings
+      - personal-website
+      - VBA-challenge
+      - excel-challenge
     # - repo-name
 
 social_media:
