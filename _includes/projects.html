@@ -24,4 +24,10 @@
       </div>
     {% endunless %}
   {% endfor %}
+
+  {% for repository in site.github.kpessa %}
+  * [{{ repository.project-2}}]({{ repository.html_url }})
+  {% include repo-card.html %}
+{% endfor %}
+
 </div>
