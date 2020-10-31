@@ -16,8 +16,6 @@ defaults:
     values:
       layout: "post"
 
-team-projects:
-  
 projects:
   sort_by: pushed
   # sort_by options:
@@ -31,7 +29,7 @@ projects:
       - szerpa17.github.io
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
