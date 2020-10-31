@@ -21,13 +21,12 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 12
   exclude: 
     archived: true
     forks: true
     projects: 
       - szerpa17.github.io
-      
     # - repo-name
 
 # social_media:
@@ -37,7 +36,7 @@ projects:
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: szerpa
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
@@ -49,12 +48,14 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: Python
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Machine Learning in the Health Industry
+    # web_url: https://github.com/topics/css
+    # image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
-  # - name: Data Science
+  - name: Big Data
+    # web_url:
+    # image_url:
 
-  - name: Sass
+  - name: Artificial Intelligence
     # web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+    # image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
