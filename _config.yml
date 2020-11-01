@@ -26,9 +26,7 @@ projects:
     archived: true
     forks: true
     projects: 
-      - szerpa17.github.io
       - fatal-police-shootings
-      - personal-website
       - VBA-challenge
       - excel-challenge
     # - repo-name
